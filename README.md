@@ -25,6 +25,18 @@
 ##### channel_selection = 1:19;
 |Data|chop|Accuracy|
 |------|---|---|
+|DY|32|0.51|
+|DY|64|0.49|
+|DY|128|0.48|
+|GC|32|0.49|
+|GC|64|0.49|
+|GC|128|0.48|
+|1|||
+
+#### K A
+##### channel_selection = 1:19;
+|Data|chop|Accuracy|
+|------|---|---|
 |DY|32|0.53|
 |DY|64|0.50|
 |DY|128|0.50|
