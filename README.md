@@ -55,5 +55,5 @@
 ### feature extraction *together*
 |Data|Accuracy|Memo|
 |------|---|---|
-|DY|0.51||
-|GC|||
+|DY|0.55||
+|GC|0.51||
