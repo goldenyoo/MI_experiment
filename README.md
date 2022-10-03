@@ -59,8 +59,15 @@
 |GC|0.51||
 
 # csp and lda
+### feature extraction *together*
+|Data|Accuracy|Memo|
+|------|---|---|
+|DY|0.54||
+|GC|||
+
+# csp and lda
 ### feature extraction *divide*
 |Data|Accuracy|Memo|
 |------|---|---|
-|DY|0.01||
+|DY|0.51||
 |GC|||
