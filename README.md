@@ -44,3 +44,10 @@
 |GC|64|0.48|
 |GC|128|0.46|
 |1|||
+
+# trying_csp
+### raw data *together*
+|Data|Accuracy|Memo|
+|------|---|---|
+|DY|0.49||
+|GC|||
