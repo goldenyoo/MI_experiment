@@ -45,7 +45,7 @@
 |GC|128|0.46|
 |1|||
 
-# trying_csp
+# csp and svm
 ### raw data *together*
 |Data|Accuracy|Memo|
 |------|---|---|
