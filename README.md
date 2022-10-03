@@ -57,3 +57,10 @@
 |------|---|---|
 |DY|0.55||
 |GC|0.51||
+
+# csp and lda
+### feature extraction *divide*
+|Data|Accuracy|Memo|
+|------|---|---|
+|DY|0.01||
+|GC|||
